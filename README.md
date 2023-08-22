@@ -1,4 +1,4 @@
-# Hello, I'm [Jekub Kowalski!](https://boostmark.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, I'm [Jakub Kowalski!](https://boostmark.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
