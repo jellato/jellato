@@ -1,4 +1,4 @@
-# Hello, I'm [Jakub Kowalski!](https://jakub.netlify.app) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hello, I'm Thanh.
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
