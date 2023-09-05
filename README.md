@@ -1,4 +1,4 @@
-# Hello, I'm Thanh.
+# Hello, I'm Jakub Kowalski.
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
