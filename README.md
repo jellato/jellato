@@ -1,4 +1,4 @@
-# Hello, I'm Jakub Kowalski.
+# Hello, I'm Matti.
 
 # 💫About Me :
 🔭 I’m reputable Freelancer.\
