@@ -1,7 +1,7 @@
-# Hello, I'm Matti.
+# Hello, I'm Niko.
 
 # 💫About Me :
-🔭 I’m reputable Freelancer.\
+🔭 I’m a reputable Freelancer.\
  💬 Ask me about any tech-related web development.\
  📫 How to reach me: Email - jellato418@gmail.com\
  📫 How to reach me: skype:  https://join.skype.com/invite/FiVWVQRzuCXa
