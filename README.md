@@ -1,4 +1,4 @@
-# Hello, I'm Niko.
+# Hello, I'm Niko Toivonen.
 
 # 💫About Me :
 🔭 I’m a reputable Freelancer.\
