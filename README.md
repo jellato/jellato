@@ -1,9 +1,9 @@
-# Hello, I'm Marko.
+# Hello, I'm Niko Toivonen.
 
 # 💫About Me :
 🔭 I’m a reputable Freelancer.\
  💬 Ask me about any tech-related web development.\
- 📫 How to reach me: Email - jellato418@gmail.com\
+ 📫 How to reach me: Email - nikonk3355@gmail.com\
  📫 How to reach me: skype:  https://join.skype.com/invite/FiVWVQRzuCXa
  📫 How to reach me: discord display name-> jellato    
  😄 Pronouns: He/His\
